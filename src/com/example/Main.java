@@ -6,5 +6,6 @@ public class Main {
         StringCompare stringCmp = new StringCompare();
 
         System.out.println(stringCmp.compareStr("Hello", "Hello world"));
+        System.out.println(stringCmp.compareStr("Hello", "Hello"));
     }
 }
